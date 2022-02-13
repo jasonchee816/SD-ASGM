@@ -1,0 +1,85 @@
+- Request/Create New Food in menu 
+- Update/Maintain the Food
+- View Order
+- Cancel order 
+- Search for food  
+- Create user profile 
+- 
+
+
+
+
+QnA for miss 
+- For a restaurant <we want this>? Or like Foodpanda buy one? 
+- Talk our idea for system, see how she react
+
+
+
+user 
+- login
+- create booking -> time
+
+In cart
+- add food --> 
+In menu - 
+- search food
+- add food into cart via ID 
+- back
+
+- edit cart -> enter ID of the food to edit -> enter new amount (enter 0 to remove from cart)
+- checkout 
+- back
+
+checkout 
+
+- view reservation
+
+- update reservation (food, time)
+
+- cancel reservation
+
+- exit
+
+Admin 
+- Login
+1. update food list
+	- cereate new food
+	- delete food 
+	- edit food (price, description etc.)
+
+2. view reservations
+
+3. search for reservations 
+	- search via date time?
+	- search via reservation ID?
+	- search via reservation username? 
+
+4. cancel reservation 
+
+
+5. update reservation 
+
+6. exit
+
+
+
+-login
+- user create reservation, checkout
+- user update reservation 
+- Admin Create New Food in menu 
+- user add food into cart 
+- Admin Update the Food list
+- Admin/User/customer View food -> description + price 
+- user delete food from cart 
+- admin search for Reservation 
+- user create user profile 
+- user/admin cancel order  
+
+
+
+
+
+
+assumption: no limitation on number of reservation 
+assumption: 
+
