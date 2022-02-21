@@ -31,7 +31,7 @@ public abstract class User {
 	
 	public void viewMenu() {}
 	
-	public void viewReservation() {};
+	
 	
 	//get the email domain name
 	public String get_email_domain(String email_input) {
@@ -47,6 +47,7 @@ public abstract class User {
 		return false;
 	}
 	
+	public abstract void viewReservation();
 	public abstract void update_Reservation();
 	public abstract void cancel_Reservation();
 	public abstract void search_Reservation();
