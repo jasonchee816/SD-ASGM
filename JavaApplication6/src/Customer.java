@@ -1,12 +1,13 @@
 
-public class Admin extends User {
+public class Customer extends User {
 
-	public Admin(String email, String password) {
+	public Customer(String email, String password) {
 		super(email, password);
 		// TODO Auto-generated constructor stub
 	}
-	
-	public void edit_food_set() {}
+
+	public void editCart() {};
+	public void createReservation() {}
 
 	@Override
 	public void update_Reservation() {
@@ -25,6 +26,7 @@ public class Admin extends User {
 		// TODO Auto-generated method stub
 		
 	};
+	
 
 
 }
