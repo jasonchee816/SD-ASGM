@@ -9,6 +9,7 @@ public class Reservation
     private String remarks;
     private Cart order;
     private int numOfPax;
+    private String status;
     
     public Reservation(LocalDate date, LocalTime time, String custName, String custPhone, String remarks, Cart order, int numOfPax)
     {
@@ -19,6 +20,7 @@ public class Reservation
     	this.remarks = remarks;
     	this.order = order;
     	this.numOfPax = numOfPax;
+    	this.setStatus("Booking Confirmed");
     }
 
 	public LocalDate getDate() 
@@ -89,5 +91,15 @@ public class Reservation
 	public void setNumOfPax(int numOfPax) 
 	{
 		this.numOfPax = numOfPax;
+	}
+
+	public String getStatus() 
+	{
+		return status;
+	}
+
+	public void setStatus(String status) 
+	{
+		this.status = status;
 	}
 }

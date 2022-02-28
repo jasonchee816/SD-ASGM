@@ -1,0 +1,9 @@
+31/3/2022	18:00:00	Cheok Jia Le	01110667777	4	1	1	1	1	Prepare a birthday cake after serving the dessert	
+4/4/2022 	15:30:30	Jason Lee	0156611321	2	1	0	1	0	-	
+25/3/2022	16:45:00	Siow Gun Yan	0194432135	3	1	0	1	1	-
+5/4/2022	13:15:44	Choy Yi Tien	0113948576	1	0	0	0	1	Vegetarian
+6/4/2022	15:30:46	Hew Ding Xuan	0178574132	5	1	2	1	1	outdoor seat required
+6/4/2022	14:58:31	Choy Poh Keong	0185673243	3	1	0	1	1	-
+7/4/2022	18:45:54	Tan Zi Hao	0197864621	1	0	0	1	0	Prepare an indoor seat please
+8/4/2022	19:43:23	Chong Siow Hong	0132156466	1	0	0	1	0	Vegetarian
+10/4/2022	15:44:00	Lai Jiun Hong	0186732528	1	0	0	1	0	-

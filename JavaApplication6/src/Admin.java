@@ -24,6 +24,12 @@ public class Admin extends User {
 	public void search_Reservation() {
 		// TODO Auto-generated method stub
 		
+	}
+
+	@Override
+	public void viewReservation() {
+		// TODO Auto-generated method stub
+		
 	};
 
 

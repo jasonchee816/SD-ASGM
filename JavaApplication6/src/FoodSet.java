@@ -1,28 +1,34 @@
-public class FoodSet{
+import java.util.ArrayList;
+	
+public class FoodSet
+{
+	
 	private String appet, soup, refresh, mainCourse, dessert;
 	private String appetDesc, soupDesc, refreshDesc, mainCourseDesc, dessertDesc;
+	private ArrayList <String> food_list;
 	
-
-	public FoodSet(String appet, String soup, String refresh, String mainF, String dessert, String appetDesc, String soupDesc,
+	public FoodSet(String appet, String soup, String refresh, String mainC, String dessert, String appetDesc, String soupDesc,
 			String refreshDesc, String mainCourseDesc, String dessertDesc) 
 	{
 		this.appet = appet;
 		this.soup = soup;
 		this.refresh = refresh;
-		this.mainCourse = mainF;
+		this.mainCourse = mainC;
 		this.dessert = dessert;
 		this.appetDesc = appetDesc;
 		this.soupDesc = soupDesc; 
 		this.refreshDesc = refreshDesc;
 		this.mainCourseDesc = mainCourseDesc;
 		this.dessertDesc = dessertDesc;
+		this.dessert = dessert;	
 	}
-	
+
 	public String getAppet() 
 	{
 		return appet;
 	}
 	
+
 	public String getSoup() 
 	{
 		return soup;
@@ -43,6 +49,7 @@ public class FoodSet{
 		return dessert;
 	}
 	
+
 	public void setAppet(String ap) 
 	{
 		this.appet = ap;
@@ -57,6 +64,7 @@ public class FoodSet{
 	{
 		this.refresh = re;
 	}
+	
 	public void setMainCourse(String m) 
 	{
 		this.mainCourse = m;
@@ -116,7 +124,8 @@ public class FoodSet{
 	}
 	
 	
+	public void displayMenu() {}
 	
-
+	public void readFood() {}
 }
 
