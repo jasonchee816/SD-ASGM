@@ -11,6 +11,7 @@ public class FoodOrderingSystem
         LoginSystem login = new LoginSystem();
         if (login.isAdmin())
         	user = new Admin(LoginSystem.);
+            return;
     }
     
 }
